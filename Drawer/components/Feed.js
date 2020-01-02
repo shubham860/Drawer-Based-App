@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
-import {View,Text,Button} from 'react-native';
+import {View, Text, Button} from 'react-native';
 
-class Settings extends Component {
+class Feed extends Component {
     render() {
         return (
             <View>
@@ -11,4 +11,4 @@ class Settings extends Component {
     }
 }
 
-export default Settings;
+export default Feed;
